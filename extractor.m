@@ -94,8 +94,8 @@ function pushbutton1_Callback(hObject, eventdata, handles)
       %uigetfile returns the name of the file in FileName and its path in PathName.
       
       I=fullfile(pathname,filename);
-      %stores the image in matrix specified at the folder (path of image) and
-      %basefile name(image name)
+      %stores the image in the form of matrix specified at the folder (path of image) and
+      %file name(image name)
       
       complete=strcat(filename,pathname);
       %concatenate path and file name to display in text box
