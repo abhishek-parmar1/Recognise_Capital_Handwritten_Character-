@@ -1,6 +1,6 @@
-# Recognize_Capital_Handwritten_Character-
+# Recognise_Capital_Handwritten_Character-
 
-Objective - The final objective of the project is to recognize the images of the capital handwritten characters and print it in a file.
+Objective - The final objective of the project is to recognise the images of the capital handwritten characters and print it in a file.
 
 Tools used - Image processing tool box and the neural network training Tool box of MATLAB.
 
